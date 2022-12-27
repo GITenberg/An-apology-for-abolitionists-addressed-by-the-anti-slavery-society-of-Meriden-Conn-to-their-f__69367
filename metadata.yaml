@@ -1,0 +1,40 @@
+_repo: An-apology-for-abolitionists-addressed-by-the-anti-slavery-society-of-Meriden-Conn-to-their-f__69367
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Pratt, Philo
+    gutenberg_agent_id: '55228'
+    url: http://www.gutenberg.org/2009/agents/55228
+  - agent_name: Tibbals, Isaac I.
+    gutenberg_agent_id: '55230'
+    url: http://www.gutenberg.org/2009/agents/55230
+  - agent_name: Webb, Walter
+    gutenberg_agent_id: '55229'
+    url: http://www.gutenberg.org/2009/agents/55229
+  - agent_name: Anti-slavery Society of Meriden, Conn.
+    alias: Meriden Anti-slavery Society
+    gutenberg_agent_id: '55218'
+    url: http://www.gutenberg.org/2009/agents/55218
+description: ''
+gutenberg_issued: '2022-11-16'
+identifiers:
+  gutenberg: '69367'
+language: en
+pgterms:marc905: 20220212150752pratt
+pgterms:marc906: '1837'
+pgterms:marc907: US
+production_note: John Campbell and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: 'United States: Anti-Slavery Society of Meriden, Conn.,1837.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Slavery -- United States'
+- !lcsh 'Slavery -- United States -- Societies, etc.'
+- !lcsh 'Abolitionists -- Connecticut -- Meriden'
+- !lcc 'HT'
+- GITenberg
+title: "An apology for abolitionists\r\naddressed by the anti-slavery society of Meriden,\
+  \ Conn., to their fellow citizens"
+url: http://www.gutenberg.org/ebooks/69367
